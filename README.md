@@ -5,7 +5,7 @@
 
 ### Main Menu, Language selection and Item creation
 
-<img width="262" height="232" alt="image" src="https://github.com/user-attachments/assets/05ec7a51-e4b4-455d-95ac-eb1a66a88c7e" />
+<img width="746" height="519" alt="image" src="https://github.com/user-attachments/assets/9f1707ea-c472-40fc-8264-fdba8239e840" />
 
 ### Editing Menu and Listing Menu
 
